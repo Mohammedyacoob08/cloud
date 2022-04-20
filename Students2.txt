@@ -29,4 +29,4 @@ print("section:",self.section)
 s=student(input("name:"),int(input("age:")),input("section:"))
 s.displaystudent()
 
-------Done-----
+------Done--------
